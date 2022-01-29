@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Corrutinas</string>
+    <string name="mensaje2">Mensje 2</string>
+    <string name="mensaje">Este es el mensaje1</string>
 </resources>
